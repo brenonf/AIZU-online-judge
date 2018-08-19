@@ -1,1 +1,1 @@
-# AIZU-online-judge
+# AIZU online judge
